@@ -4,6 +4,6 @@
   <title>Radix</title>
 </head>
 <body>
-<a href="vasilevz.html">Vasilevz</a>
+
 </body>
 </html>
